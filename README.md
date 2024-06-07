@@ -9,6 +9,16 @@ Um sistema de votação em tempo real onde os usuários podem criar uma enquete 
 - Docker;
 - Node.js;
 
+## Tecnologias
+
+- Node.js;
+- Fastify;
+- Docker;
+- Redis;
+- Prisma;
+- PostgreSQL;
+- Zod;
+
 ## Steps
 
 - Clone o repositório;
