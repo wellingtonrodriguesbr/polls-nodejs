@@ -24,6 +24,7 @@ Um sistema de votação em tempo real onde os usuários podem criar uma enquete 
 - Clone o repositório;
 - Instale as dependências (`npm install`);
 - Suba o PostgreSQL e o Redis (`docker compose up -d`);
+- Crie as tabelas no banco de dados (`npx prisma migrate dev`);
 - Copie e cole `.env.example` file (`cp .env.example .env`);
 - Rode a aplicação (`npm run dev`);
 - Teste as requisições ([Hoppscotch](https://hoppscotch.io/)).
